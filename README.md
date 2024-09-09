@@ -1,3 +1,4 @@
+![logo](https://github.com/bulbul-007/bulbul-007/blob/main/IMG_7492_edited.jpg)
 <h1 align="center">Hi 👋, I'm BULBUL AHMED</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
