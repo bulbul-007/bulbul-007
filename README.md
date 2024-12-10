@@ -12,15 +12,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bulbul-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bulbul-007" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed bulbul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed bulbul" height="30" width="40" /></a>
-<a href="https://instagram.com/bulbul ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bulbul ahmed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/emotional ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emotional ahmed" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">About Me:</h3>
